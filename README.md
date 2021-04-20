@@ -1,4 +1,10 @@
-#Trabajo de proyecto
+## Repositorio en entorno distribuido
 
+### Universidad Autonoma De Occidente
+### Entornos distribuidos GIT
+### Bidkar Aragon Cardenas
 
-##Admin - Flavio Cesar Morales Camacho
+ADMIN - Flavio Cesar Morales Camacho.<br>
+WRITE - Jorge Humberto Gamez Lopez.<br>
+TRIAGE - Rodolfo Adrian Valle Castro.<br>
+READ - Edbert Alana Bajo Ruiz.<br>
